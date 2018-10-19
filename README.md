@@ -1,2 +1,2 @@
 # regression
-Impementation of Random Forest from scratch.
+Impementation of regression models and variations.
